@@ -7,11 +7,10 @@
 <br> NIS : 4701/1420.070 
 <br> <b>Screen Shoots : </b> 
 <br> 1. <b> Form Login </b> ![1](https://cloud.githubusercontent.com/assets/22167465/24050834/bd162268-0b62-11e7-9420-cec22b3a1d33.PNG)
-<br> 2. <b>Tampilan Form </b> ![screenshot 49](https://cloud.githubusercontent.com/assets/22167465/24050833/bd0955e2-0b62-11e7-9de5-ce4dc447e82f.png)
-<br> 3. <b>Pengisian Form </b>![screenshot 50](https://cloud.githubusercontent.com/assets/22167465/24050835/bd7876a2-0b62-11e7-8471-a9a825b30f26.png)
-<br> 4. <b> Tampilan setelah mengklik save </b>![screenshot 52](https://cloud.githubusercontent.com/assets/22167465/24050836/bd817194-0b62-11e7-8b0c-bff5543da4bc.png)
-<br> 5. <b>Tampilan ingin menghapus data </b>![screenshot 53](https://cloud.githubusercontent.com/assets/22167465/24050837/bd857b4a-0b62-11e7-88df-d49b457a7da9.png)
-<br> 6. <b> Setelah mengklik button delete </b>![screenshot 55](https://cloud.githubusercontent.com/assets/22167465/24050839/be03d13e-0b62-11e7-80ca-f254c1379926.png)
-<br> ![screenshot 56](https://cloud.githubusercontent.com/assets/22167465/24050842/be8c2ebc-0b62-11e7-9379-af7c5aed530c.png)
-<br> 7. <b> Tampilan button print </b>![screenshot 57](https://cloud.githubusercontent.com/assets/22167465/24050843/bf893d78-0b62-11e7-8160-843ae1ecc46c.png)
+<br> 2. <b>Tampilan Form </b>  ![12](https://cloud.githubusercontent.com/assets/22167465/24276841/02bbe088-106c-11e7-8554-3c10b19f4c3f.PNG)
+<br> 3. <b>Pengisian Form </b> ![11111](https://cloud.githubusercontent.com/assets/22167465/24276842/02bee616-106c-11e7-90fa-009dd3d81390.PNG)
+<br> 4. <b> Tampilan setelah mengklik save </b>![hasil](https://cloud.githubusercontent.com/assets/22167465/24276839/02b78ace-106c-11e7-9f8a-d7bb01f87458.PNG)
+<br> 5. <b>Tampilan ingin menghapus data </b> ![hapus](https://cloud.githubusercontent.com/assets/22167465/24276844/02d71678-106c-11e7-8994-7e088b7b713c.PNG)
+<br> 6. <b> Setelah mengklik button delete </b> ![12](https://cloud.githubusercontent.com/assets/22167465/24276841/02bbe088-106c-11e7-8554-3c10b19f4c3f.PNG)
+<br> 7. <b> Tampilan button print </b>![print](https://cloud.githubusercontent.com/assets/22167465/24276840/02bbe844-106c-11e7-8808-f739c855ea4e.PNG)
 <br> 8. <b>Tampilan mengklik button clear, data pada form hilang </b>![screenshot 54](https://cloud.githubusercontent.com/assets/22167465/24050838/bd8c9bbe-0b62-11e7-8f68-dffab9c5a6c8.png)
